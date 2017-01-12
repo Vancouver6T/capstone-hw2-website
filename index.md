@@ -16,4 +16,4 @@ These people were my babysitters when I was seperated longterm from my actual fa
 
 
 #### Here are two elephants playing with each other
-![](elephants.jpg)
+<img src="elephants.jpg" style="height: 1080px;"/><br>
